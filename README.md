@@ -22,7 +22,7 @@ Installation Information:
 Installation Information:
 
 
-How to use:
+Instructions for Use:
 Open the Visual Studio file, click on "Start" (the green arrow at the top of the file).
 Immediately, the Swagger website will open, where you should select the desired operation and fill in the specified details to obtain the desired result.
 
